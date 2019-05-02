@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">new_pager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chat">wellcome</string>
+    <string name="Status">Bagaimana keadaan anda</string>
+    <string name="telepon">pilih nomor yang anda panggil</string>
+</resources>
